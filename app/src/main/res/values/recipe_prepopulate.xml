@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Appetizer
+    <string name="fried_calamari">Fried Calamari</string>
+    <string name="appetizer_type">Appetizer</string>
+    <string name="appetizer_imageURL">R.drawable.fried_calamari</string>
+
+    <string name="appetizer_ingredients">
+        8-12 oz cleaned squid and tentacles,\n
+        1 large egg, beaten, \n
+        4 oz all-purpose flour, \n
+        2 oz cornstarch, \n
+        1/8 teaspoon salt, \n
+        3 dashes cayenne pepper, \n
+        oil, for deep drying, \n
+        bottled tomato sauce or pasta sauce, for dipping, \n
+        chopped parsley, for garnishing
+    </string>
+    <string name="appetizer_steps">
+        1. Cut the tubes of cleaned squid into 1/2-inch ring.\n
+        2. Transfer the squid to a big bowl with a beaten egg. Stir to mix well.\n
+        3. In another big bowl, combine the all purpose flour, cornstarch, salt and cayenne pepper. \n
+           Stir to mix well. Working in small batches, drop some squid into the flour mixture. \n
+           Coat well and transfer the squid out to a strainer. Repeat until all squid are nicely coated with the flour mixture. \n
+           Gently shake the strainer with squid to remove excess flour.\n
+        4. Heat up a skillet with 1-inch oil on high heat. \n
+           When the oil is heated, deep fry the squid until they turn light brown in color. \n
+           Remove the squid from oil and drain on paper towels. \n
+        5. Garnish the squid with parsley, serve warm with tomato sauce.
+    </string>
+
+    //Main
+    <string name="spaghet">Spaghetti Carbonara</string>
+    <string name="main_type">Main Dish</string>
+    <string name="main_imageURL">R.drawable.spaghet</string>
+    <string name="main_ingredients">
+        8 ounces spaghetti, \n
+        2 large eggs, \n
+        1/2 cup freshly grated Parmesan, \n
+        4 slices bacon, diced, \n
+        4 cloves garlic, minced, \n
+        Kosher salt and freshly ground black pepper, to taste, \n
+        2 tablespoons chopped fresh parsley leaves
+    </string>
+    <string name="main_steps">
+        1. In a large pot of boiling salted water, cook pasta according to package instructions; reserve 1/2 cup water and drain well. \n
+        2. In a small bowl, whisk together eggs and Parmesan; set aside. \n
+        3. Heat a large skillet over medium high heat. Add bacon and cook until brown and crispy, about 6-8 minutes; reserve excess fat. \n
+        4. Stir in garlic until fragrant, about 1 minute. Reduce heat to low. \n
+        5. Working quickly, stir in pasta and egg mixture, and gently toss to combine; \n
+        season with salt and pepper, to taste. Add reserved pasta water, one tablespoon at a time, until desired consistency is reached. \n
+        6. Serve immediately, garnished with parsley, if desired.
+    </string>
+
+    //Dessert
+    <string name="choco_mousse">Chocolate Mousse</string>
+    <string name="dessert_type">Dessert</string>
+    <string name="dessert_imageURL">R.drawable.chocolate_mousse</string>
+    <string name="dessert_ingredients">
+       100g classic 74% dark chocolate, chopped, plus extra shards to decorate (optional) \n
+        25g butter, cubed \n
+        3 large eggs, separated \n
+        2 tbsp caster sugar \n
+        2 tbsp whipping cream (optional)
+    </string>
+    <string name="dessert_steps">
+        1. Put the chocolate, butter and 75ml warm water (see tip, below) in a heatproof bowl set over a pan of barely simmering water. \n
+           Push the chocolate and butter gently into the warm water with a wooden spoon to help it melt, but avoid stirring too much. \n
+           Once three-quarters of the butter and chocolate is melted, remove the bowl from the heat. \n
+           Stir until melted, smooth and glossy. Set aside until lukewarm. \n
+
+        2. Working quickly, use a spatula to stir the egg yolks into the chocolate mixture, one at a time. \n
+           In a separate bowl, use an electric whisk to whip the egg whites to soft peaks, then gradually add the sugar, whisking, until stiff peaks form. \n
+
+        3. Gently fold about a fifth of the egg whites into the chocolate mixture, then fold in the rest, being careful not to knock out the air bubbles. \n
+           Pour into wine or dessert glasses, cover with clingfilm and chill overnight to set. \n
+
+        4. When ready to serve, whip the cream (if using) to soft peaks. Top each glass with a spoonful of cream and decorate with chocolate shards, if you like.
+    </string>
+
+</resources>
